@@ -15,3 +15,16 @@ body {
     background-repeat: no-repeat; 
     background-attachment: fixed; 
 }
+.bg-glass {
+    background-color: #fff !important;
+    backdrop-filter: saturate(200%) blur(25px);
+  }
+  a{
+    cursor: pointer;
+  }
+  a:hover{
+    color: #fff; 
+    border-radius: 4px; 
+    cursor: pointer;
+    background: #ae2d89;
+  }
