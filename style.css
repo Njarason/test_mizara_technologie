@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+}
+.web-design{
+    color: #1e254d;
+}
+.btn-started{
+    background: linear-gradient(to right, #ae2d89, #1e3c70);
+    border: 0px solid #fff !important;
+}
+body {
+    background-image: url('bg-image.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
